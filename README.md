@@ -1,2 +1,2 @@
-# Inceptoz Projects
-List of my project works from Inceptoz Course
+# My-Projects
+List of my project works
